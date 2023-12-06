@@ -412,7 +412,7 @@ class Comment extends StatelessWidget {
                                                                   const CircleAvatar(
                                                                 backgroundImage:
                                                                     AssetImage(
-                                                                        "lib/assets/me1.jpeg"),
+                                                                        "images/me.jpeg"),
                                                               ),
                                                             ),
                                                           ),
